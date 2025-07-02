@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Kiruthiga 👋
 
-<!--
-**KiruthigaK798/KiruthigaK798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | MSc in Mathematics | Learning Python & AI  
+📊 Experienced in Reporting, Bank Reconciliation, Forecasting  
+🧠 Interested in AI Tools, Data Visualization, and Business Insights
 
-Here are some ideas to get you started:
+## 🔧 Tools & Skills
+- Excel (VLOOKUP, Pivot)
+- SQL (Basics)
+- Power BI (Learning)
+- Python (Learning)
+- Blackline, Scilab, Maxima
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projects (Coming Soon)
+- Excel Dashboard for Inventory Trends
+- Python Data Cleaning Scripts
+- AI-Driven Forecast Model (Planned)
+
+📫 Reach me: kirushwethak@gmail.com
